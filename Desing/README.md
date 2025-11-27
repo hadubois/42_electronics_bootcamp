@@ -23,41 +23,4 @@
 
 #### Pinout
 
-Pinout for U1 (ATmega328P-AU):
-
-| Pin number | Pin name     | Pin net                  |
-|------------|--------------|--------------------------|
-| 1          | PD3          | D3                       |
-| 2          | PD4          | D4                       |
-| 3          | GND          | GND                      |
-| 4          | VCC          | RAW                      |
-| 5          | GND          | GND                      |
-| 6          | VCC          | RAW                      |
-| 7          | XTAL1/PB6    | Net-(U1-XTAL1{slash}PB6) |
-| 8          | XTAL2/PB7    | Net-(U1-XTAL2{slash}PB7) |
-| 9          | PD5          | D5                       |
-| 10         | PD6          | D6                       |
-| 11         | PD7          | D7                       |
-| 12         | PB0          | D8                       |
-| 13         | PB1          | D9                       |
-| 14         | PB2          | D10                      |
-| 15         | PB3          | MOSI                     |
-| 16         | PB4          | MISO                     |
-| 17         | PB5          | SCK                      |
-| 18         | AVCC         | RAW                      |
-| 19         | ADC6         | NC                       |
-| 20         | AREF         | Net-(U1-AREF)            |
-| 21         | GND          | GND                      |
-| 22         | ADC7         | NC                       |
-| 23         | PC0          | A0                       |
-| 24         | PC1          | A1                       |
-| 25         | PC2          | A2                       |
-| 26         | PC3          | A3                       |
-| 27         | PC4          | NC                       |
-| 28         | PC5          | NC                       |
-| 29         | ~{RESET}/PC6 | DTR                      |
-| 30         | PD0          | RXI                      |
-| 31         | PD1          | TXO                      |
-| 32         | PD2          | D2                       |
-
 <img width="1901" height="914" alt="pinout_description excalidraw" src="https://github.com/user-attachments/assets/0d54023c-93a0-4e92-9548-75112e905f08" />
