@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/bapets/42_electronics/Desing/kicad_design.kicad_sch</source>
+    <date>2025-11-27T14:00:18+0100</date>
+    <tool>Eeschema 9.0.6-9.0.6~ubuntu22.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>kicad_design.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>12pF</value>
+      <footprint>Hadubois_Footprint_Library:Capacitor_12pF_SAMSUNG_CL10C120JB8NNNC</footprint>
+      <fields>
+        <field name="Footprint">Hadubois_Footprint_Library:Capacitor_12pF_SAMSUNG_CL10C120JB8NNNC</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Hadubois_Symbol_Library" part="Capacitor_Non_Polarized" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="kicad_design.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e51182ef-69e2-4619-a96f-00fca16a78b0</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>12pF</value>
+      <footprint>Hadubois_Footprint_Library:Capacitor_12pF_SAMSUNG_CL10C120JB8NNNC</footprint>
+      <fields>
+        <field name="Footprint">Hadubois_Footprint_Library:Capacitor_12pF_SAMSUNG_CL10C120JB8NNNC</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Hadubois_Symbol_Library" part="Capacitor_Non_Polarized" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="kicad_design.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b13e3aa-eebb-4e8c-a888-d4d57930ca82</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>Hadubois_Footprint_Library:Capacitor_100nF_YAGEO_CC0603KRX7R9BB104</footprint>
+      <fields>
+        <field name="Footprint">Hadubois_Footprint_Library:Capacitor_100nF_YAGEO_CC0603KRX7R9BB104</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Hadubois_Symbol_Library" part="Capacitor_Non_Polarized" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="kicad_design.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f3eded77-899e-43c5-9c5d-152a8c384228</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100nF</value>
+      <footprint>Hadubois_Footprint_Library:Capacitor_100nF_YAGEO_CC0603KRX7R9BB104</footprint>
+      <fields>
+        <field name="Footprint">Hadubois_Footprint_Library:Capacitor_100nF_YAGEO_CC0603KRX7R9BB104</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Hadubois_Symbol_Library" part="Capacitor_Non_Polarized" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="kicad_design.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7bccd9f8-72e4-48a3-855c-73b0dcb10cd5</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1uF</value>
+      <footprint>Hadubois_Footprint_Library:Capacitor_1uF_SAMSUNG_CL10A105KB8NNNC</footprint>
+      <fields>
+        <field name="Footprint">Hadubois_Footprint_Library:Capacitor_1uF_SAMSUNG_CL10A105KB8NNNC</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Hadubois_Symbol_Library" part="Capacitor_Non_Polarized" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="kicad_design.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d928da8-22f6-49f2-8ffc-ee5cfb005993</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100nF</value>
+      <footprint>Hadubois_Footprint_Library:Capacitor_100nF_YAGEO_CC0603KRX7R9BB104</footprint>
+      <fields>
+        <field name="Footprint">Hadubois_Footprint_Library:Capacitor_100nF_YAGEO_CC0603KRX7R9BB104</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Hadubois_Symbol_Library" part="Capacitor_Non_Polarized" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="kicad_design.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae5ebeee-8067-417f-a539-4fe1bf0caeb3</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>Green</value>
+      <footprint>Hadubois_Footprint_Library:Diode_Green_TUOZHAN_TZ-P2-0603YGTCS1-0.6T</footprint>
+      <fields>
+        <field name="Footprint">Hadubois_Footprint_Library:Diode_Green_TUOZHAN_TZ-P2-0603YGTCS1-0.6T</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Hadubois_Symbol_Library" part="Diode_LED" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="kicad_design.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ddbcf3d5-6c12-4bde-aa02-070523715ade</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>Red</value>
+      <footprint>Hadubois_Footprint_Library:Diode_Red_XINGLIGHT_XL-1608SURC-06</footprint>
+      <fields>
+        <field name="Footprint">Hadubois_Footprint_Library:Diode_Red_XINGLIGHT_XL-1608SURC-06</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Hadubois_Symbol_Library" part="Diode_LED" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="kicad_design.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b7e9611-0269-4e7d-9f89-05d7c4095e2f</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>~</value>
+      <footprint>Hadubois_Footprint_Library:PinHeader_1x12_P2.54mm</footprint>
+      <fields>
+        <field name="Footprint">Hadubois_Footprint_Library:PinHeader_1x12_P2.54mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Hadubois_Symbol_Library" part="Connector_01x12" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="kicad_design.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb4e219d-58db-4e23-9df9-627fd166b114</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>~</value>
+      <footprint>Hadubois_Footprint_Library:PinHeader_1x12_P2.54mm</footprint>
+      <fields>
+        <field name="Footprint">Hadubois_Footprint_Library:PinHeader_1x12_P2.54mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Hadubois_Symbol_Library" part="Connector_01x12" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="kicad_design.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2f4dc3a-8ee2-40f1-962b-31342b0d8911</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>~</value>
+      <footprint>Hadubois_Footprint_Library:PinHeae_1x06_P2.54mm</footprint>
+      <fields>
+        <field name="Footprint">Hadubois_Footprint_Library:PinHeae_1x06_P2.54mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Hadubois_Symbol_Library" part="Connector_01x06" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="kicad_design.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d09a70ee-7555-48c0-86e0-0c5c5f5dfb0a</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>330</value>
+      <footprint>Hadubois_Footprint_Library:Resistor_330Ω_ROYALOHM_0603WAF3300T5E</footprint>
+      <fields>
+        <field name="Footprint">Hadubois_Footprint_Library:Resistor_330Ω_ROYALOHM_0603WAF3300T5E</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Hadubois_Symbol_Library" part="Resistor_Fixed" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="kicad_design.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49ba93ad-3e6c-46a5-b2c3-971e1a189d9f</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10K</value>
+      <footprint>Hadubois_Footprint_Library:Resistor_10kΩ_YAGEO_RC0603FR-0710KL</footprint>
+      <fields>
+        <field name="Footprint">Hadubois_Footprint_Library:Resistor_10kΩ_YAGEO_RC0603FR-0710KL</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Hadubois_Symbol_Library" part="Resistor_Fixed" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="kicad_design.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c3a6d02-affb-4092-96d7-9f012cf5847a</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10K</value>
+      <footprint>Hadubois_Footprint_Library:Resistor_10kΩ_YAGEO_RC0603FR-0710KL</footprint>
+      <fields>
+        <field name="Footprint">Hadubois_Footprint_Library:Resistor_10kΩ_YAGEO_RC0603FR-0710KL</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Hadubois_Symbol_Library" part="Resistor_Fixed" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="kicad_design.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55518128-cbb4-4f67-ba9a-6a8b119fbbae</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <footprint>Hadubois_Footprint_Library:Switch_OMRON_B3U-1000P</footprint>
+      <fields>
+        <field name="Footprint">Hadubois_Footprint_Library:Switch_OMRON_B3U-1000P</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Hadubois_Symbol_Library" part="Switch" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="kicad_design.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91c7b579-4387-4b1a-8fb9-3021574396b1</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ATmega328P-AU</value>
+      <footprint>Hadubois_Footprint_Library:MCU_MICROCHIP_ATMEGA328P-AU</footprint>
+      <fields>
+        <field name="Footprint">Hadubois_Footprint_Library:MCU_MICROCHIP_ATMEGA328P-AU</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Hadubois_Symbol_Library" part="ATmega328P-AU" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="kicad_design.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f78a831-8b88-4015-aa1f-9fd6e58b8851</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>~</value>
+      <footprint>Hadubois_Footprint_Library:Crystal_Oscillator_YXC_X322516MLB4SI</footprint>
+      <fields>
+        <field name="Footprint">Hadubois_Footprint_Library:Crystal_Oscillator_YXC_X322516MLB4SI</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Hadubois_Symbol_Library" part="Crystal_4Pins" description=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="kicad_design.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19f42be5-7105-49a1-9cca-841f807462d5</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Hadubois_Symbol_Library" part="ATmega328P-AU">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value"/>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="PD3" type="bidirectional"/>
+        <pin num="2" name="PD4" type="bidirectional"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="VCC" type="power_in"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="VCC" type="power_in"/>
+        <pin num="7" name="XTAL1/PB6" type="bidirectional"/>
+        <pin num="8" name="XTAL2/PB7" type="bidirectional"/>
+        <pin num="9" name="PD5" type="bidirectional"/>
+        <pin num="10" name="PD6" type="bidirectional"/>
+        <pin num="11" name="PD7" type="bidirectional"/>
+        <pin num="12" name="PB0" type="bidirectional"/>
+        <pin num="13" name="PB1" type="bidirectional"/>
+        <pin num="14" name="PB2" type="bidirectional"/>
+        <pin num="15" name="PB3" type="bidirectional"/>
+        <pin num="16" name="PB4" type="bidirectional"/>
+        <pin num="17" name="PB5" type="bidirectional"/>
+        <pin num="18" name="AVCC" type="power_in"/>
+        <pin num="19" name="ADC6" type="input"/>
+        <pin num="20" name="AREF" type="passive"/>
+        <pin num="21" name="GND" type="power_in"/>
+        <pin num="22" name="ADC7" type="input"/>
+        <pin num="23" name="PC0" type="bidirectional"/>
+        <pin num="24" name="PC1" type="bidirectional"/>
+        <pin num="25" name="PC2" type="bidirectional"/>
+        <pin num="26" name="PC3" type="bidirectional"/>
+        <pin num="27" name="PC4" type="bidirectional"/>
+        <pin num="28" name="PC5" type="bidirectional"/>
+        <pin num="29" name="~{RESET}/PC6" type="bidirectional"/>
+        <pin num="30" name="PD0" type="bidirectional"/>
+        <pin num="31" name="PD1" type="bidirectional"/>
+        <pin num="32" name="PD2" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Hadubois_Symbol_Library" part="Capacitor_Non_Polarized">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value"/>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Hadubois_Symbol_Library" part="Connector_01x06">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value"/>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Hadubois_Symbol_Library" part="Connector_01x12">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value"/>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+        <pin num="9" name="" type="passive"/>
+        <pin num="10" name="" type="passive"/>
+        <pin num="11" name="" type="passive"/>
+        <pin num="12" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Hadubois_Symbol_Library" part="Crystal_4Pins">
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value"/>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Hadubois_Symbol_Library" part="Diode_LED">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value"/>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Hadubois_Symbol_Library" part="Resistor_Fixed">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value"/>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Hadubois_Symbol_Library" part="Switch">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value"/>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Hadubois_Symbol_Library">
+      <uri>/home/bapets/42_electronics/Desing/Hadubois_Symbol_Library.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="A0" class="Default">
+      <node ref="J2" pin="8" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="PC0" pintype="bidirectional"/>
+    </net>
+    <net code="2" name="A1" class="Default">
+      <node ref="J2" pin="7" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="PC1" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="A2" class="Default">
+      <node ref="J2" pin="6" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="PC2" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="A3" class="Default">
+      <node ref="J2" pin="5" pintype="passive"/>
+      <node ref="U1" pin="26" pinfunction="PC3" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="D2" class="Default">
+      <node ref="J1" pin="8" pintype="passive"/>
+      <node ref="U1" pin="32" pinfunction="PD2" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="D3" class="Default">
+      <node ref="J1" pin="7" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="PD3" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="D4" class="Default">
+      <node ref="J1" pin="6" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="PD4" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="D5" class="Default">
+      <node ref="J1" pin="5" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="PD5" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="D6" class="Default">
+      <node ref="J1" pin="4" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="PD6" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="D7" class="Default">
+      <node ref="J1" pin="3" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="PD7" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="D8" class="Default">
+      <node ref="J1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="PB0" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="D9" class="Default">
+      <node ref="J1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="PB1" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="D10" class="Default">
+      <node ref="J2" pin="12" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="PB2" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="DTR" class="Default">
+      <node ref="J1" pin="10" pintype="passive"/>
+      <node ref="J2" pin="3" pintype="passive"/>
+      <node ref="J3" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="29" pinfunction="~{RESET}/PC6" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="GND" class="Power,Default">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="9" pintype="passive"/>
+      <node ref="J2" pin="2" pintype="passive"/>
+      <node ref="J3" pin="5" pintype="passive"/>
+      <node ref="J3" pin="6" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="Y1" pin="2" pintype="passive"/>
+      <node ref="Y1" pin="4" pintype="passive"/>
+    </net>
+    <net code="16" name="MISO" class="Default">
+      <node ref="J2" pin="10" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="PB4" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="MOSI" class="Default">
+      <node ref="J2" pin="11" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="PB3" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="Net-(C4-Pad1)" class="Default">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D1-Pad2)" class="Default">
+      <node ref="D1" pin="2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D2-Pad1)" class="Default">
+      <node ref="D2" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(U1-AREF)" class="Default">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="AREF" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(U1-XTAL1/PB6)" class="Default">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="XTAL1/PB6" pintype="bidirectional"/>
+      <node ref="Y1" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(U1-XTAL2/PB7)" class="Default">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="XTAL2/PB7" pintype="bidirectional"/>
+      <node ref="Y1" pin="3" pintype="passive"/>
+    </net>
+    <net code="24" name="RAW" class="Power,Default">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="D2" pin="2" pintype="passive"/>
+      <node ref="J2" pin="1" pintype="passive"/>
+      <node ref="J2" pin="4" pintype="passive"/>
+      <node ref="J3" pin="4" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="AVCC" pintype="power_in"/>
+      <node ref="U1" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U1" pin="6" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="25" name="RXI" class="Default">
+      <node ref="J1" pin="11" pintype="passive"/>
+      <node ref="J3" pin="3" pintype="passive"/>
+      <node ref="U1" pin="30" pinfunction="PD0" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="SCK" class="Default">
+      <node ref="J2" pin="9" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="PB5" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="TXO" class="Default">
+      <node ref="J1" pin="12" pintype="passive"/>
+      <node ref="J3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="31" pinfunction="PD1" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="unconnected-(U1-ADC6-Pad19)" class="Default">
+      <node ref="U1" pin="19" pinfunction="ADC6" pintype="input+no_connect"/>
+    </net>
+    <net code="29" name="unconnected-(U1-ADC7-Pad22)" class="Default">
+      <node ref="U1" pin="22" pinfunction="ADC7" pintype="input+no_connect"/>
+    </net>
+    <net code="30" name="unconnected-(U1-PC4-Pad27)" class="Default">
+      <node ref="U1" pin="27" pinfunction="PC4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(U1-PC5-Pad28)" class="Default">
+      <node ref="U1" pin="28" pinfunction="PC5" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
