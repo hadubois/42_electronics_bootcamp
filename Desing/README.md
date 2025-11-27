@@ -59,3 +59,5 @@ Pinout for U1 (ATmega328P-AU):
 | 30         | PD0          | RXI                      |
 | 31         | PD1          | TXO                      |
 | 32         | PD2          | D2                       |
+
+<img width="1901" height="914" alt="pinout_description excalidraw" src="https://github.com/user-attachments/assets/0d54023c-93a0-4e92-9548-75112e905f08" />
